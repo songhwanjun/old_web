@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wook-Shin Han | hwanjun.me</title>
+    <link>/authors/wook-shin-han/</link>
+      <atom:link href="/authors/wook-shin-han/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wook-Shin Han</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Wook-Shin Han</title>
+      <link>/authors/wook-shin-han/</link>
+    </image>
+    
+    <item>
+      <title>PAMAE: Parallel k-Medoids Clustering with High aAccuracy and Efficiency (KDD 2017)</title>
+      <link>/publication/2017kdd_pamae/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017kdd_pamae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

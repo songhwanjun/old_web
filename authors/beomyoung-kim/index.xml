@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beomyoung Kim | hwanjun.me</title>
+    <link>/authors/beomyoung-kim/</link>
+      <atom:link href="/authors/beomyoung-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beomyoung Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Beomyoung Kim</title>
+      <link>/authors/beomyoung-kim/</link>
+    </image>
+    
+    <item>
+      <title>Revisit Prediction by Deep Survival Analysis (PAKDD 2020, To appear)</title>
+      <link>/publication/2020pakdd_revisit/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020pakdd_revisit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

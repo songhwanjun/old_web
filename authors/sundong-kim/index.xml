@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sundong Kim | hwanjun.me</title>
+    <link>/authors/sundong-kim/</link>
+      <atom:link href="/authors/sundong-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sundong Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sundong Kim</title>
+      <link>/authors/sundong-kim/</link>
+    </image>
+    
+    <item>
+      <title>Revisit Prediction by Deep Survival Analysis (PAKDD 2020, To appear)</title>
+      <link>/publication/2020pakdd_revisit/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020pakdd_revisit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carpe Diem, Seize the Samples Uncertain &#34;At the Moment&#34; for Adaptive Batch Selection (Arxiv 2019)</title>
+      <link>/publication/2019arxiv_carpediem/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019arxiv_carpediem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
