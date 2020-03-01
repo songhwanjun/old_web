@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hwanjun.me</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>hwanjun.me</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>hwanjun.me</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Revisit Prediction by Deep Survival Analysis (PAKDD 2020, To appear)</title>
+      <link>/publication/2020pakdd_revisit/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020pakdd_revisit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data (TheWebConf 2020, To appear)</title>
+      <link>/publication/2020thewebconf_trap/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020thewebconf_trap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prestopping: How Does Early Stopping Help Generalization against Label Noise? (Arxiv 2019)</title>
+      <link>/publication/2019arxiv_prestopping/</link>
+      <pubDate>Tue, 19 Nov 2019 00:40:00 +0000</pubDate>
+      <guid>/publication/2019arxiv_prestopping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carpe Diem, Seize the Samples Uncertain &#34;At the Moment&#34; for Adaptive Batch Selection (Arxiv 2019)</title>
+      <link>/publication/2019arxiv_carpediem/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019arxiv_carpediem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SELFIE: Refurbishing Unclean Samples for Robust Deep Learning (ICML 2019)</title>
+      <link>/publication/2019icml_selfie/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019icml_selfie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RP-DBSCAN: A Superfast Parallel DBSCAN Algorithm based on Random Partitioning (SIGMOD 2018)</title>
+      <link>/publication/2018sigmod_rpdbscan/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018sigmod_rpdbscan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PAMAE: Parallel k-Medoids Clustering with High aAccuracy and Efficiency (KDD 2017)</title>
+      <link>/publication/2017kdd_pamae/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017kdd_pamae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
