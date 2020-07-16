@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,7 +13,23 @@
     </image>
     
     <item>
-      <title>Revisit Prediction by Deep Survival Analysis (PAKDD 2020, To appear)</title>
+      <title>Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea (KDD 2020)</title>
+      <link>/publication/2020kdd_hicovidnet/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020kdd_hicovidnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Does Early Stopping Help Generalization against Label Noise? (ICMLW 2020)</title>
+      <link>/publication/2019arxiv_prestopping/</link>
+      <pubDate>Mon, 13 Jul 2020 00:40:00 +0000</pubDate>
+      <guid>/publication/2019arxiv_prestopping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisit Prediction by Deep Survival Analysis (PAKDD 2020)</title>
       <link>/publication/2020pakdd_revisit/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020pakdd_revisit/</guid>
@@ -21,18 +37,10 @@
     </item>
     
     <item>
-      <title>TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data (TheWebConf 2020, To appear)</title>
+      <title>TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data (TheWebConf 2020)</title>
       <link>/publication/2020thewebconf_trap/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020thewebconf_trap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prestopping: How Does Early Stopping Help Generalization against Label Noise? (Arxiv 2019)</title>
-      <link>/publication/2019arxiv_prestopping/</link>
-      <pubDate>Tue, 19 Nov 2019 00:40:00 +0000</pubDate>
-      <guid>/publication/2019arxiv_prestopping/</guid>
       <description></description>
     </item>
     
@@ -41,6 +49,14 @@
       <link>/publication/2019arxiv_carpediem/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/publication/2019arxiv_carpediem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLAT: Metric Learning for kNN in Streaming Time Series (KDDW 2019)</title>
+      <link>/publication/2019kdd_mlat/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019kdd_mlat/</guid>
       <description></description>
     </item>
     
@@ -61,7 +77,7 @@
     </item>
     
     <item>
-      <title>PAMAE: Parallel k-Medoids Clustering with High Accuracy and Efficiency (KDD 2017)</title>
+      <title>PAMAE: Parallel k-Medoids Clustering with High aAccuracy and Efficiency (KDD 2017)</title>
       <link>/publication/2017kdd_pamae/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       <guid>/publication/2017kdd_pamae/</guid>
