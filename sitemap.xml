@@ -4,41 +4,76 @@
   
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/beomyoung-kim/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <loc>/authors/dongmin-park/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/doyoung-kim/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020kdd_hicovidnet/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/hwanjun-song/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <loc>/authors/hyangsuk-min/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jae-gil-lee/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/junhyeok-kang/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/minseok-kim/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/youngeun-nam/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019arxiv_prestopping/</loc>
+    <lastmod>2020-07-13T00:40:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/beomyoung-kim/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,28 +93,13 @@
   </url>
   
   <url>
-    <loc>/authors/dongmin-park/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/minseok-kim/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/2020thewebconf_trap/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/3/</loc>
-    <lastmod>2019-11-19T00:40:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2019arxiv_prestopping/</loc>
-    <lastmod>2019-11-19T00:40:00+00:00</lastmod>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -88,8 +108,33 @@
   </url>
   
   <url>
+    <loc>/publication/2019kdd_mlat/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/susik-yoon/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/2019icml_selfie/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
