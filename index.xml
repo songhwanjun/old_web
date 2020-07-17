@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Carpe Diem, Seize the Samples Uncertain &#34;At the Moment&#34; for Adaptive Batch Selection (CIKM 2020)</title>
+      <link>/publication/2020cikm_carpediem/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020cikm_carpediem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning from Noisy Labels with Deep Neural Networks: A Survey (Arxiv 2020, Under Review)</title>
       <link>/publication/2020arxiv_survey/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
@@ -49,14 +57,6 @@
       <link>/publication/2020thewebconf_trap/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020thewebconf_trap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carpe Diem, Seize the Samples Uncertain &#34;At the Moment&#34; for Adaptive Batch Selection (Arxiv 2019)</title>
-      <link>/publication/2019arxiv_carpediem/</link>
-      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019arxiv_carpediem/</guid>
       <description></description>
     </item>
     
@@ -103,7 +103,7 @@
     </item>
     
     <item>
-      <title>PAMAE: Parallel k-Medoids Clustering with High aAccuracy and Efficiency (KDD 2017)</title>
+      <title>PAMAE: Parallel k-Medoids Clustering with High Accuracy and Efficiency (KDD 2017)</title>
       <link>/publication/2017kdd_pamae/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       <guid>/publication/2017kdd_pamae/</guid>

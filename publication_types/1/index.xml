@@ -5,12 +5,20 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Carpe Diem, Seize the Samples Uncertain &#34;At the Moment&#34; for Adaptive Batch Selection (CIKM 2020)</title>
+      <link>/publication/2020cikm_carpediem/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020cikm_carpediem/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea (KDD 2020)</title>
@@ -69,7 +77,7 @@
     </item>
     
     <item>
-      <title>PAMAE: Parallel k-Medoids Clustering with High aAccuracy and Efficiency (KDD 2017)</title>
+      <title>PAMAE: Parallel k-Medoids Clustering with High Accuracy and Efficiency (KDD 2017)</title>
       <link>/publication/2017kdd_pamae/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       <guid>/publication/2017kdd_pamae/</guid>
