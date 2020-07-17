@@ -5,12 +5,20 @@
     <link>/authors/hwanjun-song/</link>
       <atom:link href="/authors/hwanjun-song/index.xml" rel="self" type="application/rss+xml" />
     <description>Hwanjun Song</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Hwanjun Song</title>
       <link>/authors/hwanjun-song/</link>
     </image>
+    
+    <item>
+      <title>Carpe Diem, Seize the Samples Uncertain &#34;At the Moment&#34; for Adaptive Batch Selection (CIKM 2020)</title>
+      <link>/publication/2020cikm_carpediem/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020cikm_carpediem/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning from Noisy Labels with Deep Neural Networks: A Survey (Arxiv 2020, Under Review)</title>
@@ -53,14 +61,6 @@
     </item>
     
     <item>
-      <title>Carpe Diem, Seize the Samples Uncertain &#34;At the Moment&#34; for Adaptive Batch Selection (Arxiv 2019)</title>
-      <link>/publication/2019arxiv_carpediem/</link>
-      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019arxiv_carpediem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MLAT: Metric Learning for kNN in Streaming Time Series (KDDW 2019)</title>
       <link>/publication/2019kdd_mlat/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -85,7 +85,7 @@
     </item>
     
     <item>
-      <title>PAMAE: Parallel k-Medoids Clustering with High aAccuracy and Efficiency (KDD 2017)</title>
+      <title>PAMAE: Parallel k-Medoids Clustering with High Accuracy and Efficiency (KDD 2017)</title>
       <link>/publication/2017kdd_pamae/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       <guid>/publication/2017kdd_pamae/</guid>
