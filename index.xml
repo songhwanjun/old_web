@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Learning from Noisy Labels with Deep Neural Networks: A Survey (Arxiv 2020, Under Review)</title>
+      <link>/publication/2020arxiv_survey/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020arxiv_survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea (KDD 2020)</title>
       <link>/publication/2020kdd_hicovidnet/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
