@@ -3,42 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/backup/accomplishments_2020/</loc>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/2020cikm_carpediem/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+    <loc>/authors/doyoung-kim/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/hwanjun-song/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jae-gil-lee/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kijung-shin/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/minseok-kim/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2021aaai_premere/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020cikm_carpediem/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -65,11 +84,6 @@
   <url>
     <loc>/publication/2020arxiv_survey/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/doyoung-kim/</loc>
-    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -164,6 +178,10 @@
   
   <url>
     <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/backup/</loc>
   </url>
   
   <url>
