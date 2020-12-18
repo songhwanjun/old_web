@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | hwanjun.me</title>
+    <link>/publication_types/0/</link>
+      <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>0</title>
+      <link>/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Robust Learning under Label Noise with Deep Neural Networks (PhD Dissertation)</title>
+      <link>/publication/2020disertation/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2020disertation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
