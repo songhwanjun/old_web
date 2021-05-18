@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Point-of-interest (POI) recommendation has become an important research topic in these days. The user check-in history used as the input to POI recommendation is very imbalanced and noisy because of sparse and missing check-ins. Although sample reweighting is commonly adopted for addressing this challenge with the input data, its fixed weighting scheme is often inappropriate to deal with different characteristics of users or POIs. Thus, in this paper, we propose PREMERE, an adaptive weighting scheme based on meta-learning. Because meta-data is typically required by meta-learning but is inherently hard to obtain in POI recommendation, we self-generate the meta-data via self-ensembling. Furthermore, the meta-model architecture is extended to deal with the scarcity of check-ins. Thorough experiments show that replacing a weighting scheme with PREMERE boosts the performance of the state-of-the-art recommender algorithms by 2.36–26.9% on three benchmark datasets.">
+  <meta name="description" content="Responsible AI becomes critical where robustness and fairness must be satisfied together. Traditionally, the two topics have been studied by different communities for different applications. Robust training is designed for noisy or poisoned data where image data is typically considered. In comparison, fair training primarily deals with biased data where structured data is typically considered. Nevertheless, robust training and fair training are fundamentally similar in considering that both of them aim at fixing the inherent flaws of real-world data. In this tutorial, we first cover state-of-the-art robust training techniques where most of the research is on combating various label noises. In particular, we cover label noise modeling, robust training approaches, and real-world noisy data sets. Then, proceeding to the related fairness literature, we discuss pre-processing, in-processing, and post-processing unfairness mitigation techniques, depending on whether the mitigation occurs before, during, or after the model training. Finally, we cover the recent trend emerged to combine robust and fair training in two flavors - the former is to make the fair training more robust (i.e., robust fair training), and the latter is to consider robustness and fairness as two equals to incorporate them into a holistic framework. This tutorial is indeed timely and novel because the convergence of the two topics is increasingly common, but yet to be addressed in tutorials. The tutors have extensive experience publishing papers in top-tier machine learning and data mining venues and developing machine learning platforms.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/2021aaai_premere/">
+  <link rel="alternate" hreflang="en-us" href="/publication/2021kdd_tutorial/">
 
   
 
@@ -215,7 +215,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/publication/2021aaai_premere/">
+  <link rel="canonical" href="/publication/2021kdd_tutorial/">
 
   
   
@@ -223,20 +223,21 @@
   
   
     
+    
   
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="hwanjun.me">
-  <meta property="og:url" content="/publication/2021aaai_premere/">
-  <meta property="og:title" content="PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation (AAAI 2021) | hwanjun.me">
-  <meta property="og:description" content="Point-of-interest (POI) recommendation has become an important research topic in these days. The user check-in history used as the input to POI recommendation is very imbalanced and noisy because of sparse and missing check-ins. Although sample reweighting is commonly adopted for addressing this challenge with the input data, its fixed weighting scheme is often inappropriate to deal with different characteristics of users or POIs. Thus, in this paper, we propose PREMERE, an adaptive weighting scheme based on meta-learning. Because meta-data is typically required by meta-learning but is inherently hard to obtain in POI recommendation, we self-generate the meta-data via self-ensembling. Furthermore, the meta-model architecture is extended to deal with the scarcity of check-ins. Thorough experiments show that replacing a weighting scheme with PREMERE boosts the performance of the state-of-the-art recommender algorithms by 2.36–26.9% on three benchmark datasets."><meta property="og:image" content="/publication/2021aaai_premere/featured.jpg">
-  <meta property="twitter:image" content="/publication/2021aaai_premere/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/2021kdd_tutorial/">
+  <meta property="og:title" content="Machine Learning Robustness, Fairness, and their Convergence (KDD 2021, Tutorial) | hwanjun.me">
+  <meta property="og:description" content="Responsible AI becomes critical where robustness and fairness must be satisfied together. Traditionally, the two topics have been studied by different communities for different applications. Robust training is designed for noisy or poisoned data where image data is typically considered. In comparison, fair training primarily deals with biased data where structured data is typically considered. Nevertheless, robust training and fair training are fundamentally similar in considering that both of them aim at fixing the inherent flaws of real-world data. In this tutorial, we first cover state-of-the-art robust training techniques where most of the research is on combating various label noises. In particular, we cover label noise modeling, robust training approaches, and real-world noisy data sets. Then, proceeding to the related fairness literature, we discuss pre-processing, in-processing, and post-processing unfairness mitigation techniques, depending on whether the mitigation occurs before, during, or after the model training. Finally, we cover the recent trend emerged to combine robust and fair training in two flavors - the former is to make the fair training more robust (i.e., robust fair training), and the latter is to consider robustness and fairness as two equals to incorporate them into a holistic framework. This tutorial is indeed timely and novel because the convergence of the two topics is increasingly common, but yet to be addressed in tutorials. The tutors have extensive experience publishing papers in top-tier machine learning and data mining venues and developing machine learning platforms."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-12-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2021-05-16T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2021-02-07T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-05-16T00:00:00&#43;00:00">
   
 
   
@@ -258,20 +259,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/2021aaai_premere/"
+    "@id": "/publication/2021kdd_tutorial/"
   },
-  "headline": "PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation (AAAI 2021)",
+  "headline": "Machine Learning Robustness, Fairness, and their Convergence (KDD 2021, Tutorial)",
   
-  "image": [
-    "/publication/2021aaai_premere/featured.jpg"
-  ],
-  
-  "datePublished": "2020-12-01T00:00:00Z",
-  "dateModified": "2021-02-07T00:00:00Z",
+  "datePublished": "2021-05-16T00:00:00Z",
+  "dateModified": "2021-05-16T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Minseok Kim"
+    "name": "Jae-Gil Lee"
   },
   
   "publisher": {
@@ -282,7 +279,7 @@
       "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Point-of-interest (POI) recommendation has become an important research topic in these days. The user check-in history used as the input to POI recommendation is very imbalanced and noisy because of sparse and missing check-ins. Although sample reweighting is commonly adopted for addressing this challenge with the input data, its fixed weighting scheme is often inappropriate to deal with different characteristics of users or POIs. Thus, in this paper, we propose PREMERE, an adaptive weighting scheme based on meta-learning. Because meta-data is typically required by meta-learning but is inherently hard to obtain in POI recommendation, we self-generate the meta-data via self-ensembling. Furthermore, the meta-model architecture is extended to deal with the scarcity of check-ins. Thorough experiments show that replacing a weighting scheme with PREMERE boosts the performance of the state-of-the-art recommender algorithms by 2.36–26.9% on three benchmark datasets."
+  "description": "Responsible AI becomes critical where robustness and fairness must be satisfied together. Traditionally, the two topics have been studied by different communities for different applications. Robust training is designed for noisy or poisoned data where image data is typically considered. In comparison, fair training primarily deals with biased data where structured data is typically considered. Nevertheless, robust training and fair training are fundamentally similar in considering that both of them aim at fixing the inherent flaws of real-world data. In this tutorial, we first cover state-of-the-art robust training techniques where most of the research is on combating various label noises. In particular, we cover label noise modeling, robust training approaches, and real-world noisy data sets. Then, proceeding to the related fairness literature, we discuss pre-processing, in-processing, and post-processing unfairness mitigation techniques, depending on whether the mitigation occurs before, during, or after the model training. Finally, we cover the recent trend emerged to combine robust and fair training in two flavors - the former is to make the fair training more robust (i.e., robust fair training), and the latter is to consider robustness and fairness as two equals to incorporate them into a holistic framework. This tutorial is indeed timely and novel because the convergence of the two topics is increasingly common, but yet to be addressed in tutorials. The tutors have extensive experience publishing papers in top-tier machine learning and data mining venues and developing machine learning platforms."
 }
 </script>
 
@@ -300,7 +297,7 @@
 
 
 
-  <title>PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation (AAAI 2021) | hwanjun.me</title>
+  <title>Machine Learning Robustness, Fairness, and their Convergence (KDD 2021, Tutorial) | hwanjun.me</title>
 
 </head>
 
@@ -534,26 +531,18 @@
 
 
 
-
-
-
-
-
-
-
+  
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1>Machine Learning Robustness, Fairness, and their Convergence (KDD 2021, Tutorial)</h1>
+
+  
+
   
     
-  
-
-
-<div class="article-container pt-3">
-  <h1>PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation (AAAI 2021)</h1>
-
-  
-
-  
 
 
 <div class="article-metadata">
@@ -568,7 +557,7 @@
 
 
   
-  <span><a href="/authors/minseok-kim/">Minseok Kim</a></span>, <span><a href="/authors/hwanjun-song/">Hwanjun Song</a></span>, <span><a href="/authors/doyoung-kim/">Doyoung Kim</a></span>, <span><a href="/authors/kijung-shin/">Kijung Shin</a></span>, <span><a href="/authors/jae-gil-lee/">Jae-Gil Lee</a></span>
+  <span><a href="/authors/jae-gil-lee/">Jae-Gil Lee</a></span>, <span><a href="/authors/yuji-roh/">Yuji Roh</a></span>, <span><a href="/authors/hwanjun-song/">Hwanjun Song</a></span>, <span><a href="/authors/yooju-shin/">Yooju Shin</a></span>, <span><a href="/authors/jae-gil-lee/">Jae-Gil Lee</a></span>
 
   </div>
   
@@ -580,7 +569,7 @@
     
       
     
-    February 2021
+    May 2021
   </span>
   
 
@@ -597,7 +586,7 @@
 
 </div>
 
-  
+    
 
 
 
@@ -625,19 +614,13 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/songhwanjun/songhwanjun.github.io/raw/master/files/2021_AAAI_PREMERE.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2021aaai_premere/cite.bib">
+        data-filename="/publication/2021kdd_tutorial/cite.bib">
   Cite
 </button>
 
@@ -651,21 +634,22 @@
 
 
 
-
-
-
-
-</div>
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 212px;">
-  <div style="position: relative">
-    <img src="/publication/2021aaai_premere/featured_hu2ad31a372d5eff3b47c0ee47fbcefdce_106956_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
+  
+  
     
-  </div>
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="http://localhost:1313/publication/2021kdd_tutorial/" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+</div>
+
+
+  
 </div>
 
 
@@ -674,7 +658,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Point-of-interest (POI) recommendation has become an important research topic in these days. The user check-in history used as the input to POI recommendation is very imbalanced and noisy because of sparse and missing check-ins. Although sample reweighting is commonly adopted for addressing this challenge with the input data, its fixed weighting scheme is often inappropriate to deal with different characteristics of users or POIs. Thus, in this paper, we propose PREMERE, an adaptive weighting scheme based on meta-learning. Because meta-data is typically required by meta-learning but is inherently hard to obtain in POI recommendation, we self-generate the meta-data via self-ensembling. Furthermore, the meta-model architecture is extended to deal with the scarcity of check-ins. Thorough experiments show that replacing a weighting scheme with PREMERE boosts the performance of the state-of-the-art recommender algorithms by 2.36–26.9% on three benchmark datasets.</p>
+    <p class="pub-abstract">Responsible AI becomes critical where robustness and fairness must be satisfied together. Traditionally, the two topics have been studied by different communities for different applications. Robust training is designed for noisy or poisoned data where image data is typically considered. In comparison, fair training primarily deals with biased data where structured data is typically considered. Nevertheless, robust training and fair training are fundamentally similar in considering that both of them aim at fixing the inherent flaws of real-world data. In this tutorial, we first cover state-of-the-art robust training techniques where most of the research is on combating various label noises. In particular, we cover label noise modeling, robust training approaches, and real-world noisy data sets. Then, proceeding to the related fairness literature, we discuss pre-processing, in-processing, and post-processing unfairness mitigation techniques, depending on whether the mitigation occurs before, during, or after the model training. Finally, we cover the recent trend emerged to combine robust and fair training in two flavors - the former is to make the fair training more robust (i.e., robust fair training), and the latter is to consider robustness and fairness as two equals to incorporate them into a holistic framework. This tutorial is indeed timely and novel because the convergence of the two topics is increasingly common, but yet to be addressed in tutorials. The tutors have extensive experience publishing papers in top-tier machine learning and data mining venues and developing machine learning platforms.</p>
     
 
     
@@ -704,7 +688,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">The AAAI Conference on Artificial Intelligence</div>
+          <div class="col-12 col-md-9">Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -735,7 +719,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/2021aaai_premere/&amp;text=PREMERE:%20Meta-Reweighting%20via%20Self-Ensembling%20for%20Point-of-Interest%20Recommendation%20%28AAAI%202021%29" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/2021kdd_tutorial/&amp;text=Machine%20Learning%20Robustness,%20Fairness,%20and%20their%20Convergence%20%28KDD%202021,%20Tutorial%29" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -748,7 +732,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/2021aaai_premere/&amp;t=PREMERE:%20Meta-Reweighting%20via%20Self-Ensembling%20for%20Point-of-Interest%20Recommendation%20%28AAAI%202021%29" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/2021kdd_tutorial/&amp;t=Machine%20Learning%20Robustness,%20Fairness,%20and%20their%20Convergence%20%28KDD%202021,%20Tutorial%29" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -761,7 +745,7 @@
       
       
       <li>
-        <a href="mailto:?subject=PREMERE:%20Meta-Reweighting%20via%20Self-Ensembling%20for%20Point-of-Interest%20Recommendation%20%28AAAI%202021%29&amp;body=/publication/2021aaai_premere/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Machine%20Learning%20Robustness,%20Fairness,%20and%20their%20Convergence%20%28KDD%202021,%20Tutorial%29&amp;body=/publication/2021kdd_tutorial/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -774,7 +758,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/2021aaai_premere/&amp;title=PREMERE:%20Meta-Reweighting%20via%20Self-Ensembling%20for%20Point-of-Interest%20Recommendation%20%28AAAI%202021%29" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/2021kdd_tutorial/&amp;title=Machine%20Learning%20Robustness,%20Fairness,%20and%20their%20Convergence%20%28KDD%202021,%20Tutorial%29" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -787,7 +771,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=PREMERE:%20Meta-Reweighting%20via%20Self-Ensembling%20for%20Point-of-Interest%20Recommendation%20%28AAAI%202021%29%20/publication/2021aaai_premere/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Machine%20Learning%20Robustness,%20Fairness,%20and%20their%20Convergence%20%28KDD%202021,%20Tutorial%29%20/publication/2021kdd_tutorial/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -800,7 +784,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/2021aaai_premere/&amp;title=PREMERE:%20Meta-Reweighting%20via%20Self-Ensembling%20for%20Point-of-Interest%20Recommendation%20%28AAAI%202021%29" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/2021kdd_tutorial/&amp;title=Machine%20Learning%20Robustness,%20Fairness,%20and%20their%20Convergence%20%28KDD%202021,%20Tutorial%29" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -839,7 +823,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/minseok-kim/"></a></h5>
+      <h5 class="card-title"><a href="/authors/jae-gil-lee/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
