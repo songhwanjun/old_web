@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuji Roh | hwanjun.me</title>
+    <link>/authors/yuji-roh/</link>
+      <atom:link href="/authors/yuji-roh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuji Roh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yuji Roh</title>
+      <link>/authors/yuji-roh/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Robustness, Fairness, and their Convergence (KDD 2021, Tutorial)</title>
+      <link>/publication/2021kdd_tutorial/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021kdd_tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
