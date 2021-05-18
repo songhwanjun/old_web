@@ -21,6 +21,30 @@
     </item>
     
     <item>
+      <title>Robust Learning by Self-Transition for Handling Noisy Labels (KDD 2021, To Appear)</title>
+      <link>/publication/2021kdd_morph/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021kdd_morph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Robustness, Fairness, and their Convergence (KDD 2021, Tutorial)</title>
+      <link>/publication/2021kdd_tutorial/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021kdd_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Noisy Labels with Deep Neural Networks: A Survey (Arxiv 2021, Under Revision)</title>
+      <link>/publication/2021arxiv_survey/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021arxiv_survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robust Learning under Label Noise with Deep Neural Networks (PhD Dissertation)</title>
       <link>/publication/2020disertation/</link>
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
@@ -49,14 +73,6 @@
       <link>/publication/2020ml_ada/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020ml_ada/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning from Noisy Labels with Deep Neural Networks: A Survey (Arxiv 2020, Under Review)</title>
-      <link>/publication/2020arxiv_survey/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020arxiv_survey/</guid>
       <description></description>
     </item>
     
