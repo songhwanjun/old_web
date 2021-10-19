@@ -1,234 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/backup/accomplishments_2020/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
+    <loc>https://example.com/publication-type/1/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/2021arxiv_vidt/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/2021bmvc_medusa/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/2021neurips_taufe/</loc>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/2021kdd_morph/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/dongmin-park/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/hwanjun-song/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jae-gil-lee/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/minseok-kim/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2021kdd_morph/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yooju-shin/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2021kdd_tutorial/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2021kdd_tutorial/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/steven-euijong-whang/</loc>
-    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yuji-roh/</loc>
-    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
+  </url><url>
+    <loc>https://example.com/publication-type/2/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2021arxiv_survey/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2021arxiv_survey/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/0/</loc>
+  </url><url>
+    <loc>https://example.com/publication-type/0/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2020disertation/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2020disertation/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/doyoung-kim/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2021aaai_premere/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kijung-shin/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2021aaai_premere/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2020cikm_carpediem/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2020cikm_carpediem/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sundong-kim/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2020ml_ada/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2020ml_ada/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2020kdd_hicovidnet/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2020arxiv_survey/</loc>
+    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/2020kdd_hicovidnet/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/hyangsuk-min/</loc>
-    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/junhyeok-kang/</loc>
-    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/youngeun-nam/</loc>
-    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2019arxiv_prestopping/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2019arxiv_prestopping/</loc>
     <lastmod>2020-07-13T00:40:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/beomyoung-kim/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2020pakdd_revisit/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2020pakdd_revisit/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sejin-kim/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2020thewebconf_trap/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2020thewebconf_trap/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2019kdd_mlat/</loc>
+  </url><url>
+    <loc>https://example.com/publication-type/3/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/2019arxiv_carpediem/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/2019kdd_mlat/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/susik-yoon/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2019icml_selfie/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2019icml_selfie/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>https://example.com/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
+  </url><url>
+    <loc>https://example.com/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2018sigmod_rpdbscan/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2018sigmod_rpdbscan/</loc>
     <lastmod>2018-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2017kdd_pamae/</loc>
+  </url><url>
+    <loc>https://example.com/publication/2017kdd_pamae/</loc>
     <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
   </url>
-  
-  <url>
-    <loc>/authors/wook-shin-han/</loc>
-    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/backup/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-  </url>
-  
 </urlset>

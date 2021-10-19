@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hwanjun.me</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>hwanjun.me</description>
+    <title>1 | hwanjun.me</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>hwanjun.me</title>
-      <link>https://example.com/</link>
+      <title>1</title>
+      <link>https://example.com/publication-type/1/</link>
     </image>
     
     <item>
@@ -53,22 +53,6 @@
     </item>
     
     <item>
-      <title>Learning from Noisy Labels with Deep Neural Networks: A Survey (Arxiv 2021, Under Revision)</title>
-      <link>https://example.com/publication/2021arxiv_survey/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2021arxiv_survey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust Learning under Label Noise with Deep Neural Networks (PhD Dissertation)</title>
-      <link>https://example.com/publication/2020disertation/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2020disertation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation (AAAI 2021)</title>
       <link>https://example.com/publication/2021aaai_premere/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
@@ -81,22 +65,6 @@
       <link>https://example.com/publication/2020cikm_carpediem/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/2020cikm_carpediem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ada-Boundary: Accelerating DNN Training via Adaptive Boundary Batch Selection (Machine Learning 2020, SCIE IF=2.672, ECML-PKDD Journal Track)</title>
-      <link>https://example.com/publication/2020ml_ada/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2020ml_ada/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning from Noisy Labels with Deep Neural Networks: A Survey (Arxiv 2020, Under Review)</title>
-      <link>https://example.com/publication/2020arxiv_survey/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2020arxiv_survey/</guid>
       <description></description>
     </item>
     
@@ -133,14 +101,6 @@
     </item>
     
     <item>
-      <title>Carpe Diem, Seize the Samples Uncertain &#34;At the Moment&#34; for Adaptive Batch Selection (Arxiv 2019)</title>
-      <link>https://example.com/publication/2019arxiv_carpediem/</link>
-      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2019arxiv_carpediem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MLAT: Metric Learning for kNN in Streaming Time Series (KDDW 2019)</title>
       <link>https://example.com/publication/2019kdd_mlat/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -154,24 +114,6 @@
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/2019icml_selfie/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://example.com/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://example.com/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
     </item>
     
     <item>
