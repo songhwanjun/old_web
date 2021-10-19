@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Finding low-dimensional embeddings of sparse high-dimensional data objects is important in many applications such as recommendation, graph mining, and natural language processing (NLP). Recently, autoencoder (AE)-based embedding approaches have achieved state-of-the-art performance in many tasks, especially in top-k recommendation tasks with user embedding or node classification tasks with node embedding. However, we find that many real-world data follow the power-law distribution with respect to the data object sparsity. When learning AE-based embeddings of these data, dense inputs move away from sparse inputs in an embedding space even when they are highly correlated. Resultingly, the embedding is distorted, which we call the polarization problem. In this paper, we propose TRAP that leverages two-level regularizers to effectively alleviate this problem. (i) The macroscopic regularizer adds a regularization term in the loss function to generally prevent dense input objects from being distant from other sparse input objects. (ii) The microscopic regularizer introduces a new object-wise parameter to individually entice each object to correlated neighbor objects rather than uncorrelated ones. Importantly, TRAP is a meta-algorithm that can be easily coupled with existing AE-based embedding methods with a simple modification. In extensive experiments on two representative embedding tasks using six-real world datasets, TRAP boosted the performance of the state-of-the-art algorithms by up to 31.53% and 94.99% respectively." />
+  <meta name="description" content="A deep neural network (DNN) has achieved great success in many machine learning tasks by virtue of its high expressive power. However, its prediction can be easily biased to undesirable features, which are not essential for solving the target task and are even imperceptible to a human, thereby resulting in poor generalization. Leveraging plenty of undesirable features in out-of-distribution (OOD) examples has emerged as a potential solution for de-biasing such features, and a recent study shows that softmax-level calibration of OOD examples can successfully remove the contribution of undesirable features to the last fully-connected layer of a classifier. However, its applicability is confined to the classification task, and its impact on a DNN feature extractor is not properly investigated. In this paper, we propose TAUFE, a novel regularizer that deactivates many undesirable features using OOD examples in the feature extraction layer and thus removes the dependency on the task-specific softmax layer. To show the task-agnostic nature of TAUFE, we rigorously validate its performance on three tasks, classification, regression, and a mix of them, on CIFAR-10, CIFAR-100, ImageNet, CUB200, and CAR datasets. The results demonstrate that TAUFE consistently outperforms the state-of-the-art method as well as the baselines without regularization." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://example.com/publication/2020thewebconf_trap/" />
+  <link rel="alternate" hreflang="en-us" href="https://example.com/publication/2021neurips_taufe/" />
 
   
 
@@ -276,7 +276,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://example.com/publication/2020thewebconf_trap/" />
+  <link rel="canonical" href="https://example.com/publication/2021neurips_taufe/" />
 
   
   
@@ -292,18 +292,18 @@
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="hwanjun.me" />
-  <meta property="og:url" content="https://example.com/publication/2020thewebconf_trap/" />
-  <meta property="og:title" content="TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data (TheWebConf 2020) | hwanjun.me" />
-  <meta property="og:description" content="Finding low-dimensional embeddings of sparse high-dimensional data objects is important in many applications such as recommendation, graph mining, and natural language processing (NLP). Recently, autoencoder (AE)-based embedding approaches have achieved state-of-the-art performance in many tasks, especially in top-k recommendation tasks with user embedding or node classification tasks with node embedding. However, we find that many real-world data follow the power-law distribution with respect to the data object sparsity. When learning AE-based embeddings of these data, dense inputs move away from sparse inputs in an embedding space even when they are highly correlated. Resultingly, the embedding is distorted, which we call the polarization problem. In this paper, we propose TRAP that leverages two-level regularizers to effectively alleviate this problem. (i) The macroscopic regularizer adds a regularization term in the loss function to generally prevent dense input objects from being distant from other sparse input objects. (ii) The microscopic regularizer introduces a new object-wise parameter to individually entice each object to correlated neighbor objects rather than uncorrelated ones. Importantly, TRAP is a meta-algorithm that can be easily coupled with existing AE-based embedding methods with a simple modification. In extensive experiments on two representative embedding tasks using six-real world datasets, TRAP boosted the performance of the state-of-the-art algorithms by up to 31.53% and 94.99% respectively." /><meta property="og:image" content="https://example.com/publication/2020thewebconf_trap/featured.jpg" />
-    <meta property="twitter:image" content="https://example.com/publication/2020thewebconf_trap/featured.jpg" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://example.com/publication/2021neurips_taufe/" />
+  <meta property="og:title" content="Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data (NeurIPS 2021) | hwanjun.me" />
+  <meta property="og:description" content="A deep neural network (DNN) has achieved great success in many machine learning tasks by virtue of its high expressive power. However, its prediction can be easily biased to undesirable features, which are not essential for solving the target task and are even imperceptible to a human, thereby resulting in poor generalization. Leveraging plenty of undesirable features in out-of-distribution (OOD) examples has emerged as a potential solution for de-biasing such features, and a recent study shows that softmax-level calibration of OOD examples can successfully remove the contribution of undesirable features to the last fully-connected layer of a classifier. However, its applicability is confined to the classification task, and its impact on a DNN feature extractor is not properly investigated. In this paper, we propose TAUFE, a novel regularizer that deactivates many undesirable features using OOD examples in the feature extraction layer and thus removes the dependency on the task-specific softmax layer. To show the task-agnostic nature of TAUFE, we rigorously validate its performance on three tasks, classification, regression, and a mix of them, on CIFAR-10, CIFAR-100, ImageNet, CUB200, and CAR datasets. The results demonstrate that TAUFE consistently outperforms the state-of-the-art method as well as the baselines without regularization." /><meta property="og:image" content="https://example.com/publication/2021neurips_taufe/featured.jpg" />
+    <meta property="twitter:image" content="https://example.com/publication/2021neurips_taufe/featured.jpg" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2020-01-01T00:00:00&#43;00:00"
+        content="2021-10-05T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2020-01-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-10-05T00:00:00&#43;00:00">
   
 
   
@@ -325,16 +325,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://example.com/publication/2020thewebconf_trap/"
+    "@id": "https://example.com/publication/2021neurips_taufe/"
   },
-  "headline": "TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data (TheWebConf 2020)",
+  "headline": "Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data (NeurIPS 2021)",
   
   "image": [
-    "https://example.com/publication/2020thewebconf_trap/featured.jpg"
+    "https://example.com/publication/2021neurips_taufe/featured.jpg"
   ],
   
-  "datePublished": "2020-01-01T00:00:00Z",
-  "dateModified": "2020-01-01T00:00:00Z",
+  "datePublished": "2021-10-05T00:00:00Z",
+  "dateModified": "2021-10-05T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -349,7 +349,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Finding low-dimensional embeddings of sparse high-dimensional data objects is important in many applications such as recommendation, graph mining, and natural language processing (NLP). Recently, autoencoder (AE)-based embedding approaches have achieved state-of-the-art performance in many tasks, especially in top-k recommendation tasks with user embedding or node classification tasks with node embedding. However, we find that many real-world data follow the power-law distribution with respect to the data object sparsity. When learning AE-based embeddings of these data, dense inputs move away from sparse inputs in an embedding space even when they are highly correlated. Resultingly, the embedding is distorted, which we call the polarization problem. In this paper, we propose TRAP that leverages two-level regularizers to effectively alleviate this problem. (i) The macroscopic regularizer adds a regularization term in the loss function to generally prevent dense input objects from being distant from other sparse input objects. (ii) The microscopic regularizer introduces a new object-wise parameter to individually entice each object to correlated neighbor objects rather than uncorrelated ones. Importantly, TRAP is a meta-algorithm that can be easily coupled with existing AE-based embedding methods with a simple modification. In extensive experiments on two representative embedding tasks using six-real world datasets, TRAP boosted the performance of the state-of-the-art algorithms by up to 31.53% and 94.99% respectively."
+  "description": "A deep neural network (DNN) has achieved great success in many machine learning tasks by virtue of its high expressive power. However, its prediction can be easily biased to undesirable features, which are not essential for solving the target task and are even imperceptible to a human, thereby resulting in poor generalization. Leveraging plenty of undesirable features in out-of-distribution (OOD) examples has emerged as a potential solution for de-biasing such features, and a recent study shows that softmax-level calibration of OOD examples can successfully remove the contribution of undesirable features to the last fully-connected layer of a classifier. However, its applicability is confined to the classification task, and its impact on a DNN feature extractor is not properly investigated. In this paper, we propose TAUFE, a novel regularizer that deactivates many undesirable features using OOD examples in the feature extraction layer and thus removes the dependency on the task-specific softmax layer. To show the task-agnostic nature of TAUFE, we rigorously validate its performance on three tasks, classification, regression, and a mix of them, on CIFAR-10, CIFAR-100, ImageNet, CUB200, and CAR datasets. The results demonstrate that TAUFE consistently outperforms the state-of-the-art method as well as the baselines without regularization."
 }
 </script>
 
@@ -365,11 +365,11 @@
 
 
 
-  <title>TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data (TheWebConf 2020) | hwanjun.me</title>
+  <title>Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data (NeurIPS 2021) | hwanjun.me</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="d7b4520c387fdf531c0fc45e72e1fbd9" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="3c5891458a601ef53c4f8fe957a79359" >
 
   
   
@@ -670,7 +670,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data (TheWebConf 2020)</h1>
+  <h1>Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data (NeurIPS 2021)</h1>
 
   
 
@@ -701,7 +701,7 @@
     
       
     
-    January 2020
+    October 2021
   </span>
   
 
@@ -738,19 +738,13 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary btn-page-header" href="http://dm.kaist.ac.kr/lab/papers/webconf20.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/2020thewebconf_trap/cite.bib">
+        data-filename="/publication/2021neurips_taufe/cite.bib">
   Cite
 </a>
 
@@ -774,9 +768,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 236px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 235px;">
   <div style="position: relative">
-    <img src="/publication/2020thewebconf_trap/featured_hua7162be0e7859dbe2df1cde7123006d0_137358_720x0_resize_q75_lanczos.jpg" alt="" class="featured-image">
+    <img src="/publication/2021neurips_taufe/featured_hu4f4102b06851fbd88a89d0feb49c5511_266584_720x0_resize_q75_lanczos.jpg" alt="" class="featured-image">
     
   </div>
 </div>
@@ -787,7 +781,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Finding low-dimensional embeddings of sparse high-dimensional data objects is important in many applications such as recommendation, graph mining, and natural language processing (NLP). Recently, autoencoder (AE)-based embedding approaches have achieved state-of-the-art performance in many tasks, especially in top-k recommendation tasks with user embedding or node classification tasks with node embedding. However, we find that many real-world data follow the power-law distribution with respect to the data object sparsity. When learning AE-based embeddings of these data, dense inputs move away from sparse inputs in an embedding space even when they are highly correlated. Resultingly, the embedding is distorted, which we call the polarization problem. In this paper, we propose TRAP that leverages two-level regularizers to effectively alleviate this problem. (i) The macroscopic regularizer adds a regularization term in the loss function to generally prevent dense input objects from being distant from other sparse input objects. (ii) The microscopic regularizer introduces a new object-wise parameter to individually entice each object to correlated neighbor objects rather than uncorrelated ones. Importantly, TRAP is a meta-algorithm that can be easily coupled with existing AE-based embedding methods with a simple modification. In extensive experiments on two representative embedding tasks using six-real world datasets, TRAP boosted the performance of the state-of-the-art algorithms by up to 31.53% and 94.99% respectively.</p>
+    <p class="pub-abstract">A deep neural network (DNN) has achieved great success in many machine learning tasks by virtue of its high expressive power. However, its prediction can be easily biased to undesirable features, which are not essential for solving the target task and are even imperceptible to a human, thereby resulting in poor generalization. Leveraging plenty of undesirable features in out-of-distribution (OOD) examples has emerged as a potential solution for de-biasing such features, and a recent study shows that softmax-level calibration of OOD examples can successfully remove the contribution of undesirable features to the last fully-connected layer of a classifier. However, its applicability is confined to the classification task, and its impact on a DNN feature extractor is not properly investigated. In this paper, we propose TAUFE, a novel regularizer that deactivates many undesirable features using OOD examples in the feature extraction layer and thus removes the dependency on the task-specific softmax layer. To show the task-agnostic nature of TAUFE, we rigorously validate its performance on three tasks, classification, regression, and a mix of them, on CIFAR-10, CIFAR-100, ImageNet, CUB200, and CAR datasets. The results demonstrate that TAUFE consistently outperforms the state-of-the-art method as well as the baselines without regularization.</p>
     
 
     
@@ -815,7 +809,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">The Web Conference</div>
+          <div class="col-12 col-md-9">Proceedings of the 35th Annual Conference on Neural Information Processing Systems</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -847,7 +841,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://example.com/publication/2020thewebconf_trap/&amp;text=TRAP:%20Two-level%20Regularized%20Autoencoder-based%20Embedding%20for%20Power-law%20Distributed%20Data%20%28TheWebConf%202020%29" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://example.com/publication/2021neurips_taufe/&amp;text=Task-Agnostic%20Undesirable%20Feature%20Deactivation%20Using%20Out-of-Distribution%20Data%20%28NeurIPS%202021%29" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -860,7 +854,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://example.com/publication/2020thewebconf_trap/&amp;t=TRAP:%20Two-level%20Regularized%20Autoencoder-based%20Embedding%20for%20Power-law%20Distributed%20Data%20%28TheWebConf%202020%29" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://example.com/publication/2021neurips_taufe/&amp;t=Task-Agnostic%20Undesirable%20Feature%20Deactivation%20Using%20Out-of-Distribution%20Data%20%28NeurIPS%202021%29" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -873,7 +867,7 @@
       
       
       <li>
-        <a href="mailto:?subject=TRAP:%20Two-level%20Regularized%20Autoencoder-based%20Embedding%20for%20Power-law%20Distributed%20Data%20%28TheWebConf%202020%29&amp;body=https://example.com/publication/2020thewebconf_trap/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Task-Agnostic%20Undesirable%20Feature%20Deactivation%20Using%20Out-of-Distribution%20Data%20%28NeurIPS%202021%29&amp;body=https://example.com/publication/2021neurips_taufe/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -886,7 +880,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://example.com/publication/2020thewebconf_trap/&amp;title=TRAP:%20Two-level%20Regularized%20Autoencoder-based%20Embedding%20for%20Power-law%20Distributed%20Data%20%28TheWebConf%202020%29" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://example.com/publication/2021neurips_taufe/&amp;title=Task-Agnostic%20Undesirable%20Feature%20Deactivation%20Using%20Out-of-Distribution%20Data%20%28NeurIPS%202021%29" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -899,7 +893,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=TRAP:%20Two-level%20Regularized%20Autoencoder-based%20Embedding%20for%20Power-law%20Distributed%20Data%20%28TheWebConf%202020%29%20https://example.com/publication/2020thewebconf_trap/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Task-Agnostic%20Undesirable%20Feature%20Deactivation%20Using%20Out-of-Distribution%20Data%20%28NeurIPS%202021%29%20https://example.com/publication/2021neurips_taufe/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -912,7 +906,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://example.com/publication/2020thewebconf_trap/&amp;title=TRAP:%20Two-level%20Regularized%20Autoencoder-based%20Embedding%20for%20Power-law%20Distributed%20Data%20%28TheWebConf%202020%29" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://example.com/publication/2021neurips_taufe/&amp;title=Task-Agnostic%20Undesirable%20Feature%20Deactivation%20Using%20Out-of-Distribution%20Data%20%28NeurIPS%202021%29" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
