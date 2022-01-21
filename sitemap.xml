@@ -3,25 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/publication-type/1/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/2022iclr_vidt/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/2022iclr_tclp/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/publication/2022melon_aaai/</loc>
     <lastmod>2021-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/publication/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/publication/2022covid_aaai/</loc>
     <lastmod>2021-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/publication/2021arxiv_vidt/</loc>
-    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/publication/2021bmvc_medusa/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
