@@ -5,12 +5,36 @@
     <link>https://example.com/publication-type/1/</link>
       <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://example.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Time Is MattEr: Temporal Self-supervision for Video Transformers (ICML 2022)</title>
+      <link>https://example.com/publication/2022icml_time/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022icml_time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-Intensive Dataset Condensation (ICML 2022)</title>
+      <link>https://example.com/publication/2022icml_condense/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022icml_condense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries (CVPR 2022)</title>
+      <link>https://example.com/publication/2022cvpr_puridiver/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022cvpr_puridiver/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ViDT: An Efficient and Effective Fully Transformer-based Object Detector (ICLR 2022)</title>
